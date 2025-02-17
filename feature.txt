@@ -1,1 +1,2 @@
 Это файл feature.txt
+Изменеие в master
