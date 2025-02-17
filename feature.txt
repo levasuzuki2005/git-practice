@@ -1,2 +1,5 @@
 Это файл feature.txt
+
 Изменеие в master
+	Изменение в conflict-branch
+
